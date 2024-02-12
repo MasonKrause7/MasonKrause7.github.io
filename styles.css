@@ -13,7 +13,9 @@ body {
 .container{
     display: flex;
     flex-direction: column;
-    padding-left: 2vw;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 h1{
     font-size: 48pt;
